@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "teams": [
+        {
+            "id": "TM001",
+            "name": "Thunder"
+        },
+        {
+            "id": "TM002",
+            "name": "Comets"
+        }
+    ],
+    "fixtures": []
+}

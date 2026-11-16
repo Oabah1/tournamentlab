@@ -1,0 +1,59 @@
+{
+    "version": 1,
+    "teams": [
+        {
+            "id": "TM001",
+            "name": "Thunder"
+        },
+        {
+            "id": "TM002",
+            "name": "Comets"
+        },
+        {
+            "id": "TM003",
+            "name": "Phoenix"
+        },
+        {
+            "id": "TM004",
+            "name": "Rockets"
+        }
+    ],
+    "fixtures": [
+        {
+            "id": "M001",
+            "home_team_id": "TM001",
+            "away_team_id": "TM002",
+            "status": "pending"
+        },
+        {
+            "id": "M002",
+            "home_team_id": "TM001",
+            "away_team_id": "TM003",
+            "status": "pending"
+        },
+        {
+            "id": "M003",
+            "home_team_id": "TM001",
+            "away_team_id": "TM004",
+            "status": "pending"
+        },
+        {
+            "id": "M004",
+            "home_team_id": "TM002",
+            "away_team_id": "TM003",
+            "status": "pending"
+        },
+        {
+            "id": "M005",
+            "home_team_id": "TM002",
+            "away_team_id": "TM004",
+            "status": "pending"
+        },
+        {
+            "id": "M006",
+            "home_team_id": "TM003",
+            "away_team_id": "TM004",
+            "status": "pending"
+        }
+    ]
+}

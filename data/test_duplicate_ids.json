@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "teams": [
+        {
+            "id": "TM001",
+            "name": "Thunder"
+        },
+        {
+            "id": "TM001",
+            "name": "Comets"
+        },
+        {
+            "id": "TM003",
+            "name": "Phoenix"
+        },
+        {
+            "id": "TM004",
+            "name": "Rockets"
+        }
+    ],
+    "fixtures": []
+}
